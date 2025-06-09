@@ -1,4 +1,4 @@
 package com.example.backend.dto;
 
-public record CartDto() {
+public class CartDto {
 }
