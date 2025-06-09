@@ -1,4 +1,4 @@
 package com.example.backend.service;
 
-public class CartService {
+public interface CartService {
 }
