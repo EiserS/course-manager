@@ -1,4 +1,4 @@
 package com.example.backend.dto;
 
-public record OrderDto() {
+public class OrderDto {
 }
