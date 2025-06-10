@@ -1,4 +1,4 @@
 package com.example.backend.service;
 
-public class OrderService {
+public interface OrderService {
 }
