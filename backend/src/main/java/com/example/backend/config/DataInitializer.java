@@ -1,4 +1,4 @@
 package com.example.backend.config;
 
-public class AppConfig {
+public class DataInitializer {
 }
